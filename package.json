@@ -1,0 +1,16 @@
+{
+  "name": "konduktor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Konduktor.js",
+
+  "scripts": {
+    "start":"node Konduktor.js"
+  },
+  "author": "Paladyn",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0"
+  }
+}
